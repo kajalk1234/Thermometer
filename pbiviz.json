@@ -4,10 +4,10 @@
     "displayName": "Thermometer by MAQ Software",
     "guid": "PBI_CV_309E6B47_39A5_4681_808F_132AFB230872",
     "visualClassName": "Thermometer",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "description": "Thermometer is used to represent data in thermometer. It could be a good way to represent data when you have the actual value and the target value (maximum threshold)",
-    "supportUrl": "https://github.com/maqsoftware/PowerBI-visuals/issues",
-    "gitHubUrl": "https://github.com/maqsoftware/PowerBI-visuals/"
+    "supportUrl": "https://github.com/maqsoftware/Thermometer/issues",
+    "gitHubUrl": "https://github.com/maqsoftware/Thermometer"
   },
   "apiVersion": "2.5.0",
   "author": {
